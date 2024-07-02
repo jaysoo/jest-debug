@@ -1,0 +1,9 @@
+{
+  "name": "lib170",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/lib170/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib170 --web",
+  "targets": {}
+}

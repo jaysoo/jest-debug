@@ -1,0 +1,9 @@
+{
+  "name": "lib222",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/lib222/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib222 --web",
+  "targets": {}
+}
